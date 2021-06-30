@@ -1,6 +1,5 @@
 === zaerl Visibility ===
 Contributors: zaerl
-Donate link: http://bit.ly/cJKknC
 Tags: visibility, hidden forum, hidden topic, private forum, private topic, zaerl
 Requires at least: 1.0.2
 Tested up to: 1.0.2
